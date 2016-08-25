@@ -1,2 +1,3 @@
-# random-quote-gen
-Random Quote Generator
+# Random Quote Generator
+
+A silly little project for fun!
